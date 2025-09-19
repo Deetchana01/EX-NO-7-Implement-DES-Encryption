@@ -40,7 +40,8 @@ int main()
 }
 ~~~
 ## Output:
-![cry ex 7](https://github.com/user-attachments/assets/c6283625-fc9d-44b9-b7a3-c13b71add638)
+<img width="1293" height="791" alt="image" src="https://github.com/user-attachments/assets/def0d49f-a79f-42b7-a359-38a330714f41" />
+
 ## Result:
 The program is executed successfully
 
